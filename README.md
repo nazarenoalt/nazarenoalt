@@ -1,4 +1,5 @@
-### Hey, I'm Naza
+<h3 align="center">Hey, Im Naza</h3>
+<h6 align="center" >Fullstack developer. Working at Globant.</h6>
 
 <div align="center">
 
@@ -16,4 +17,6 @@
 
 </div>
 
-Page under construction. You can take a look at my repos to keep yourself entertained in the meantime =)
+---
+<br>
+<i>Page under construction. You can take a look at my repos to keep yourself entertained in the meantime =)</i>
