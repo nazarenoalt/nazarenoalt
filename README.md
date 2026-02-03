@@ -1,5 +1,5 @@
 <h3 align="center">Hey, Im Naza</h3>
-<h6 align="center" >Fullstack developer. Working at Globant.</h6>
+<h6 align="center" >Software developer. Working at Globant.</h6>
 
 <div align="center">
 
@@ -15,6 +15,10 @@
 
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  
 </div>
 
 ---
